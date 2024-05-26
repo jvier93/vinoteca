@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "Arinarnoa",
+    "category": "Vinos",
+    "price": 200,
+    "volume": 0.75,
+    "alchool": 13.5,
+    "description": "Arinarnoa es una cepa que durante mucho tiempo se creyó provenía del cruzamiento de Merlot con Petit Verdot pero más recientemente, y luego del estudio de su genoma, se definió que en realidad su origen estaba en el cruzamiento de Cabernet Sauvignon con Tannat. Este ejemplar del Uruguay presenta color granate oscuro con reflejos bordeaux. Predominan frutos rojos y negros maduros. Alta concentración de taninos amables acompañado de una acidez típica de la región. Disfrute de esta total innovación que la Familia GIMENEZ MENDEZ del URUGUAY comparte con usted. Altamente recomendable para agasajar junto a carnes rojas, asadas o al horno, pastas rellenas, risottos y quesos estacionados.",
+
+    "image": "arinarnoa-sin-bg.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Rosado dulce",
+    "category": "Casco Viejo",
+    "price": 200,
+    "volume": 1,
+    "alchool": 13.5,
+    "image": "casco-viejo-rosado-dulce.png"
+  }
+]
