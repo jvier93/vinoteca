@@ -45,7 +45,10 @@ export function AccordianItem({ value, category, ...props }) {
         className="overflow-y-hidden transition-all"
         style={{ height: open ? ref.current?.offsetHeight || 0 : 0 }}
       >
-        <div className="flex gap-4 px-4 pt-4 bg-primary-color" ref={ref}>
+        <div
+          className="flex flex-wrap justify-between gap-4 px-4 pt-4 bg-primary-color"
+          ref={ref}
+        >
           {data.map(
             (wine, index) =>
               wine.category === category && (
@@ -54,7 +57,7 @@ export function AccordianItem({ value, category, ...props }) {
                     <img
                       className="w-32  h-64 object-contain"
                       src={getImageUrl(wine.image)}
-                      alt={wine.nombre}
+                      alt={wine.name}
                     />
                   </Link>
                 </div>

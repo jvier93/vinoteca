@@ -1,22 +1,87 @@
 [
   {
-    "id": 1,
-    "nombre": "Arinarnoa",
-    "category": "Vinos",
-    "price": 200,
-    "volume": 0.75,
-    "alchool": 13.5,
-    "description": "Arinarnoa es una cepa que durante mucho tiempo se creyó provenía del cruzamiento de Merlot con Petit Verdot pero más recientemente, y luego del estudio de su genoma, se definió que en realidad su origen estaba en el cruzamiento de Cabernet Sauvignon con Tannat. Este ejemplar del Uruguay presenta color granate oscuro con reflejos bordeaux. Predominan frutos rojos y negros maduros. Alta concentración de taninos amables acompañado de una acidez típica de la región. Disfrute de esta total innovación que la Familia GIMENEZ MENDEZ del URUGUAY comparte con usted. Altamente recomendable para agasajar junto a carnes rojas, asadas o al horno, pastas rellenas, risottos y quesos estacionados.",
-
-    "image": "arinarnoa-sin-bg.png"
-  },
-  {
     "id": 2,
-    "nombre": "Rosado dulce",
-    "category": "Casco Viejo",
+    "name": "Rosado dulce",
+    "category": "CASCO VIEJO",
     "price": 200,
     "volume": 1,
     "alchool": 13.5,
     "image": "casco-viejo-rosado-dulce.png"
+  },
+  {
+    "id": 3,
+    "name": "Cabernet Franc Rosé",
+    "category": "VIÑA LAS BRUJAS",
+    "price": 200,
+    "volume": 0.75,
+    "alchool": 13,
+    "image": "cabernet-franc-rose.png"
+  },
+  {
+    "id": 4,
+    "name": "Cabernet Sauvignon",
+    "category": "VIÑA LAS BRUJAS",
+    "price": 200,
+    "volume": 0.75,
+    "alchool": 13.5,
+    "image": "cabernet-sauvignon.png",
+    "description": "Este vino ha recibido una impresionante serie de reconocimientos internacionales que destacan su calidad y excelencia. Con 91 puntos en el Concurso Vinos Sub 30 en Uruguay, 88 puntos en la cata a ciegas de Andreas Larsson en Suecia, y una Medalla de Oro otorgada por Gilbert & Gaillard en Francia, este vino se consolida como una opción destacada para los amantes del buen vino en todo el mundo."
+  },
+  {
+    "id": 5,
+    "name": "Chardonnay Viognier",
+    "category": "VIÑA LAS BRUJAS",
+    "alchool": 12.5,
+    "volume": 0.75,
+    "price": 200,
+    "image": "chardonnay-viognier.png"
+  },
+  {
+    "id": 6,
+    "name": "Malbec",
+    "category": "VIÑA LAS BRUJAS",
+    "alchool": 13.8,
+    "volume": 0.75,
+    "price": 200,
+    "image": "malbec.png",
+    "description": "Este vino ha sido aclamado por expertos internacionales, obteniendo 92 puntos en el Concurso Vinos Sub 30 en Uruguay y 89 puntos en la cata a ciegas de Andreas Larsson en Suecia. Estos altos puntajes reflejan su excepcional calidad y atractivo, posicionándolo como una elección destacada para los conocedores del vino."
+  },
+  {
+    "id": 7,
+    "name": "Tannat",
+    "category": "VIÑA LAS BRUJAS",
+    "alchool": 14,
+    "volume": 0.75,
+    "price": 200,
+    "image": "tannat.png",
+    "description": "Este vino ha recibido una impresionante variedad de premios y reconocimientos, destacando su excelencia a nivel internacional. Con 95 puntos en el Concurso Vinos Sub 30 en Uruguay y 88 puntos en Decanter por Sara Jane Evans en el Reino Unido, su calidad es evidente. Ha sido galardonado con Medalla de Oro por Gilbert & Gaillard en Francia y en el Concurso Tannat al Mundo en Uruguay. Además, ha recibido tres estrellas de Harpers en el Reino Unido y una Medalla de Plata en Selections Mondiales des Vins en Canadá. Estos elogios consolidan su reputación como un vino de primera clase."
+  },
+  {
+    "id": 8,
+    "name": "Tannat",
+    "category": "BUHO MICROVINIFICACIONES",
+    "alchool": 14.5,
+    "volume": 0.75,
+    "price": 200,
+    "image": "buho-tannat.png",
+    "description": "Este vino ha sido galardonado con la Medalla de Oro en el Concurso Tannat al Mundo en Uruguay, destacando su excelencia enológica."
+  },
+  {
+    "id": 9,
+    "name": "Cabernet Sauvignon",
+    "category": "BUHO MICROVINIFICACIONES",
+    "alchool": 14.5,
+    "volume": 0.75,
+    "price": 200,
+    "image": "buho-cabernet-sauvignon.png"
+  },
+  {
+    "id": 10,
+    "name": "Malbec",
+    "category": "BUHO MICROVINIFICACIONES",
+    "alchool": 14.5,
+    "volume": 0.75,
+    "price": 200,
+    "image": "buho-malbec.png"
   }
 ]
